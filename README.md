@@ -1,5 +1,5 @@
 # Streets to Zips
-> Find zip codes from street addresses.
+> Get zip codes from street addresses.
 
 
 ## Usage
